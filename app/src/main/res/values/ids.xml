@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewRoot" type="id">viewroot</item>
+    <item name="svDogs" type="id">svdogs</item>
+    <item name="rvDogs" type="id">rvdogs</item>
+    <item name="ivDog" type="id">ivdog</item>
+</resources>
